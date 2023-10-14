@@ -1,0 +1,15 @@
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\bin\Debug\net6.0\humano2.exe
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\bin\Debug\net6.0\humano2.deps.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\bin\Debug\net6.0\humano2.runtimeconfig.json
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\bin\Debug\net6.0\humano2.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\bin\Debug\net6.0\humano2.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.csproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.AssemblyInfoInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.AssemblyInfo.cs
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\refint\humano2.dll
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.pdb
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\humano2.genruntimeconfig.cache
+C:\Users\cesar\Desktop\Bootcamp ahora si\C\humano2\obj\Debug\net6.0\ref\humano2.dll
